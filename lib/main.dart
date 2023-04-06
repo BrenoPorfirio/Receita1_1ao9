@@ -25,7 +25,7 @@ void main() {
             Text(
               "RED DEAD REDEMPTION 2 - 1º",
               style: TextStyle(
-                fontFamily: 'RobotoMono',
+                fontFamily: 'Alkatra',
                 fontSize: 20,
                 foreground: Paint()
                   ..shader = ui.Gradient.linear(
@@ -50,7 +50,7 @@ void main() {
             Text(
               "FORZA HORIZON 5 - 2º",
               style: TextStyle(
-                fontFamily: 'RobotoMono',
+                fontFamily: 'Alkatra',
                 fontSize: 20,
                 foreground: Paint()
                   ..shader = ui.Gradient.linear(
@@ -75,7 +75,7 @@ void main() {
             Text(
               "COUNTER STRIKE: GLOBAL OFFENSIVE - 3º",
               style: TextStyle(
-                fontFamily: 'RobotoMono',
+                fontFamily: 'Alkatra',
                 fontSize: 20,
                 foreground: Paint()
                   ..shader = ui.Gradient.linear(
