@@ -20,7 +20,7 @@ void main() {
                   "https://images.ctfassets.net/wn7ipiv9ue5v/6ZSV0CNlsw4xhNcCNK4haj/82d0f54cf5010ab9f05a5e5558d3b4f0/RDR2_HeroSquare_1080x1080.jpg"),
               width: 100,
               height: 120,
-              fadeInDuration: Duration(milliseconds: 500),
+              fadeInDuration: Duration(milliseconds: 700),
             ),
             Text(
               "RED DEAD REDEMPTION 2 - 1º",
@@ -45,7 +45,7 @@ void main() {
                   "https://store-images.s-microsoft.com/image/apps.23625.13806078025361171.9723cf5e-1e29-4d9d-ad0a-cc37a95bb75d.e02f4ead-d89b-45cd-8eb5-5dcbf44ae91f"),
               width: 100,
               height: 120,
-              fadeInDuration: Duration(milliseconds: 500),
+              fadeInDuration: Duration(milliseconds: 700),
             ),
             Text(
               "FORZA HORIZON 5 - 2º",
@@ -70,7 +70,7 @@ void main() {
                   "https://upload.wikimedia.org/wikipedia/pt/c/ce/Counter-Strike_Global_Offensive.jpg"),
               width: 100,
               height: 120,
-              fadeInDuration: Duration(milliseconds: 500),
+              fadeInDuration: Duration(milliseconds: 700),
             ),
             Text(
               "COUNTER STRIKE: GLOBAL OFFENSIVE - 3º",
